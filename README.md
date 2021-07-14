@@ -4,7 +4,7 @@ These carachter maps are designed to display a variety of scripts from Parisian 
 
 <br>
 
-At the moment, we divided our maps in lowercase, uppercase, numbers, and special characters. Other divisions may be available in the future.
+At the moment, we divided our maps in lowercase, uppercase, and special characters. Other divisions may be available in the future.
 The current maps come from three manuscripts:
 <br>
 
