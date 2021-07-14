@@ -16,8 +16,8 @@ Corpus Christi College MS 485, Parker Library in Cambridge, United Kingdom: http
 
 <br>
 
-The files are downloadable as JSON-LD files together with the images. The files are named according to manuscript_UNICODE_pagemanuscript
+Not all files may contain all the letters (work in progress!). The files are downloadable as JSON-LD files together with the images. The files are named according to manuscript_UNICODE_pagemanuscript
 
 <br>
-More to come!
+More to come
     
