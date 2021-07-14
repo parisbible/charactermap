@@ -9,9 +9,9 @@ The maps in this version of the repository come from three manuscripts:
 <br>
 
 * MsWettF1, Aargauer Kantonsbibliothek, Switzerland: [facsimile](https://www.e-codices.unifr.ch/it/searchresult/list/one/kba/WettF0001)
-<br>
+
 * Lewis E M 063, Free Library of Philadelphia, United States: [facsimile](https://openn.library.upenn.edu/Data/0023/html/lewis_e_m_063_001-031.html)
-<br>
+
 * Corpus Christi College MS 485, Parker Library, Cambridge, United Kingdom: [facsimile](https://parker.stanford.edu/parker/catalog/xk876dn8316)
 
 <br>
