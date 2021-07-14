@@ -1,6 +1,6 @@
 # Character Map
 
-These carachter maps are designed to display a variety of scripts from Parisian Bibles. The presentation of these characters lends itself to any kind of scriptural analysis (letter shapes) and comparisons. These character maps have been obtained through the use of Tropy (tropy.org).
+These character maps are designed to show the way that letters are written in a variety of scripts in from Paris Bibles. The presentation of these characters lends itself to any kind of scriptural analysis (letter shapes) and comparisons. These character maps have been captured from screenshots from high quality manuscripts, and have been organized using the open source software for digital image management, (Tropy)[tropy.org].
 
 <br>
 
