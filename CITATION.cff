@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use our dataset, please cite it as below."
+authors:
+  - family-names: Cappelletto
+    given-names: Niccolò Acram
+    orcid: 
+title: "Paris Bible Project Character Map"
+version: 1.0
+doi: 
+date-released: 2021-07-18
